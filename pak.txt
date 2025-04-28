@@ -1,0 +1,22 @@
+latest_version ios 23-23 android 28-28 force_dl 24
+download_url, https://kiemhieptinh2.vn/tai-game-gia-lap,276,173694726
+https://cdn.jx2mobile.com/jx2/data/font.pak?ver=1,data/,font.pak,9835,0,1
+https://cdn.jx2mobile.com/jx2/data/image.pak?ver=1,data/,image.pak,1048615358,0,1
+https://cdn.jx2mobile.com/jx2/data/maps_c.pak?ver=1,data/,maps_c.pak,74237302,0,1
+https://cdn.jx2mobile.com/jx2/data/music.pak?ver=1,data/,music.pak,88518093,0,1
+https://cdn.jx2mobile.com/jx2/data/resource.pak?ver=1,data/,resource.pak,309810037,0,1
+https://cdn.jx2mobile.com/jx2/data/spr.pak?ver=1,data/,spr.pak,953763,0,1
+https://cdn.jx2mobile.com/jx2/data/sound.pak?ver=1,data/,sound.pak,65238725,0,1
+https://cdn.jx2mobile.com/jx2/data/Uimage.pak?ver=1,data/,Uimage.pak,35962861,0,1
+https://cdn.jx2mobile.com/jx2/data/update_c.pak?ver=1,data/,update_c.pak,1236723511,0,1
+https://cdn.jx2mobile.com/jx2/data/update_image.pak?ver=14,data/,update_image.pak,21083610,0,14
+https://cdn.jx2mobile.com/jx2/data/updatejx2.pak?ver=1,data/,updatejx2.pak,14454176,0,1
+https://cdn.jx2mobile.com/jx2/data/updatejx2_en.pak?ver=1,data/,updatejx2_en.pak,14454286,0,1
+https://cdn.jx2mobile.com/jx2/data/script_c.pak?ver=2,data/,script_c.pak,888105,0,2
+https://cdn.jx2mobile.com/jx2/data/settings_c.pak?ver=26,data/,settings_c.pak,1672436,0,26
+https://cdn.jx2mobile.com/jx2/data/settings_c_en.pak?ver=55,data/,settings_c_en.pak,1725382,0,55
+https://cdn.jx2mobile.com/jx2/data/ui.pak?ver=15,data/,ui.pak,729549,0,15
+https://cdn.jx2mobile.com/jx2/data/ui_en.pak?ver=48,data/,ui_en.pak,702672,0,48
+https://cdn.jx2mobile.com/jx2/data/kht2.pak?ver=6,data/,kht2.pak,429359,0,6
+https://cdn.jx2mobile.com/jx2/data/data.zip?ver=1,data/,data.zip,130674271,0,1
+https://cdn.jx2mobile.com/jx2/data/updatejx3.pak?ver=1,data/,updatejx3.pak,130397558,0,1
